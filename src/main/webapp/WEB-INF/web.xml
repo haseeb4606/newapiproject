@@ -1,4 +1,4 @@
- 
+
 <web-app>
 	<display-name>API PROJECT</display-name>
 
@@ -8,12 +8,12 @@
 		</servlet-class>
 
 	</servlet>
-	
+
 	<servlet-mapping>
-	
-	<servlet-name>Restapi</servlet-name>
-	<url-pattern>/</url-pattern>
-	
+
+		<servlet-name>Restapi</servlet-name>
+		<url-pattern>/</url-pattern>
+
 	</servlet-mapping>
 
 
